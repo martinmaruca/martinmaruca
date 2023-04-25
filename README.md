@@ -27,7 +27,7 @@ alt="https://www.linkedin.com/in/martin-maruca/" height="30" width="40" /></a>
 
 ![martinmaruca's Stats](https://github-readme-stats.vercel.app/api?username=martinmaruca&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 ![martinmaruca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinmaruca&theme=buefy&hide_border=true)
-![martinmaruca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=martinmaruca&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+![martinmaruca's Top Languages]("https://github-readme-stats.vercel.app/api/top-langs/username=martinmaruca&theme=buefy&show_icons=true&hide_border=true&layout=compact")
 <a href="https://github.com/martinmaruca">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinmaruca&layout=buefy&show_icons=true&hide_border=true&layout=compact" />
 </a>
