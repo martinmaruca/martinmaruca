@@ -30,3 +30,4 @@ alt="https://www.linkedin.com/in/martin-maruca/" height="30" width="40" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinmaruca&layout=buefy&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
+![martinmaruca's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinmaruca&theme=buefy&show_icons=true&hide_border=true&layout=compact)
