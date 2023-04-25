@@ -10,9 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/martin-maruca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-maruca/" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="martinmaruca@gmail.com" target="blank"><img align="center" 
+  <a href="martinmaruca@gmail.com" target="blank"><img align="center" 
 src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"
 alt="https://www.linkedin.com/in/martin-maruca/" height="30" width="40" /></a>
 </p>
