@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Maruca</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<div align=center>
+
+<h3>Contact me</h3>
 
 - 👨‍💻 All of my projects are available at [https://martinmaruca.netlify.app/](https://martinmaruca.netlify.app/)
 
